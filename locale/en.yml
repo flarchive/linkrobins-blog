@@ -1,0 +1,3 @@
+linkrobins-blog:
+  admin:
+    placeholder: "Blog backend is installed. Admin UI for managing posts and categories is coming in a follow-up release. Until then, the JSON:API endpoints under /api/linkrobins-blog-posts can be used directly."
